@@ -4,3 +4,5 @@ In this project, which was a part of the Udacity Front End Nanodegreee, I was gi
 
 
 # Running the app
+
+To run the application, either go to https://amalolan.github.io/fend-feedreader/ or if you want to view it locally, you can clone/download the repository and then open index.html file in your browser.
